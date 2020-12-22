@@ -1,4 +1,4 @@
-cd /app/was/apache-tomcat-8.5.23/
+cd /usr/local/tomcat/
 bin/shutdown.sh
 cd webapps 
 rm -rf ROOT/

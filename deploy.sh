@@ -5,4 +5,3 @@ rm -rf ROOT/
 cp /home/ec2-user/build/wook.war ./wook.war
 cd ..
 bin/startup.sh
-cd /
